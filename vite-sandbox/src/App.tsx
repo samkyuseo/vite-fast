@@ -3,7 +3,7 @@ import { Navbar } from "./components/navbar";
 import { Toaster } from "./components/ui/sonner";
 import { toast } from "sonner";
 import { Button } from "./components/ui/button";
-import { Github, Linkedin } from "lucide-react";
+import { Linkedin } from "lucide-react";
 
 function App() {
   const popup = (url: string) => {
