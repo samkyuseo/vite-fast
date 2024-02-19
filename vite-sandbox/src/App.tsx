@@ -103,7 +103,13 @@ function App() {
               </p>
             </div>
             <div className="flex flex-col">
-              <a onClick={() => popup("https://samkyuseo.com/")}>
+              <a
+                onClick={() =>
+                  popup(
+                    "https://github.com/samkyuseo/vite-fast/tree/main/vite-sandbox",
+                  )
+                }
+              >
                 samkyuseo.com
               </a>
               <p className="pt-3 text-[14px] font-light leading-relaxed">
