@@ -103,14 +103,6 @@ function App() {
               </p>
             </div>
             <div className="flex flex-col">
-              <a onClick={() => popup("https://www.atomuscyber.com/")}>
-                atomus-landing-page
-              </a>
-              <p className="pt-3 text-[14px] font-light leading-relaxed">
-                Atomus' main website for product marketing and overview.
-              </p>
-            </div>
-            <div className="flex flex-col">
               <a onClick={() => popup("https://samkyuseo.com/")}>
                 samkyuseo.com
               </a>
