@@ -137,7 +137,7 @@ function App() {
         <div className="mt-14"></div>
         <div className="prose">
           <hr></hr>
-          <footer className="text-muted-foreground mt-4 flex items-center justify-between">
+          <footer className="text-muted-foreground my-4 flex items-center justify-between">
             <span>samuel kyuseo lee</span>
             <Button variant="ghost" size="icon">
               <Linkedin
