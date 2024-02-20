@@ -98,8 +98,8 @@ function App() {
                 bazel-rulejs-migration
               </a>
               <p className="pt-3 text-[14px] font-light leading-relaxed">
-                Migrated Astranis' javascript builds to be driven by Bazel in an
-                integrated repository style. Still a WIP.
+                Migrating Astranis' javascript builds to be driven by Bazel in
+                an integrated repository style. Still a WIP.
               </p>
             </div>
             <div className="flex flex-col">
@@ -135,7 +135,7 @@ function App() {
         <div className="mt-14"></div>
         <div className="prose">
           <hr></hr>
-          <footer className="text-muted-foreground my-4 flex items-center justify-between">
+          <footer className="my-4 flex items-center justify-between text-muted-foreground">
             <span>samuel kyuseo lee</span>
             <Button variant="ghost" size="icon">
               <Linkedin
